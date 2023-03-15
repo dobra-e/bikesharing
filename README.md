@@ -14,20 +14,34 @@ Explore the [CitiBike Story on Tableau Public](https://public.tableau.com/app/pr
 ###### User Types
 ![User Types](/visualizations/customers.png)
 
+* Users of CitiBike are classified into one of two groups: customers and subscribers. The majority (about 81%) of users are subscribers.
+
 ###### Peak Usage Times in August
 ![Peak Usage Times in August](/visualizations/AugustPeakHours.png)
+
+* CitiBike's peak hours of usage are during the morning and evening commutes, 8am and 5-6pm, respectively. 
 
 ###### User Checkout Times
 ![User Checkout Times](/visualizations/Checkout_Gender.png)
 
+* Bikes are typically checked out for 5 minutes. Most trips are less than 20 minutes. 
+
 ###### User Checkout Times by Gender
 ![User Checkout Times by Gender](/visualizations/Checkout_Users.png)
+
+* Males checkout bikes more than other genders and checkout bikes for longer periods of time.
 
 ###### Usage Time and Day
 ![Usage Time and Day](/visualizations/TripsByDayHour.png)
 
+* Between Monday and Friday, the fewest trips are taken on Wednesday. Thursday is the busiest weekday, particularly during the morning and evening commute hours.
+
 ###### Usage Time and Day by Gender
 ![Usage Time and Day by Gender](/visualizations/TripsByDayHourGender.png)
 
+* Trends found in the previous visualization hold true when the data is grouped by gender. Across genders, the fewest trips are taken on Wednesday and the most are taken on Thursday. 
+
 ###### Usage by Day, Gender, and User Type
-![Usage Time and day by User Type](/visualizations/TripsByDayGenderUser.png)
+![Usage Time and day by User Type](/visualizations/TripsbyDayGenderUser.png)
+
+* Across all days of the week, most trips are taken by male subscribers, with Thursday's having the highest trip count.
