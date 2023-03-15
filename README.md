@@ -22,12 +22,12 @@ Explore the [CitiBike Story on Tableau Public](https://public.tableau.com/app/pr
 * CitiBike's peak hours of usage are during the morning and evening commutes, 8am and 5-6pm, respectively. 
 
 ###### User Checkout Times
-![User Checkout Times](/visualizations/Checkout_Gender.png)
+![User Checkout Times](/visualizations/Checkout_Users.png)
 
 * Bikes are typically checked out for 5 minutes. Most trips are less than 20 minutes. 
 
 ###### User Checkout Times by Gender
-![User Checkout Times by Gender](/visualizations/Checkout_Users.png)
+![User Checkout Times by Gender](/visualizations/Checkout_Gender.png)
 
 * Males checkout bikes more than other genders and checkout bikes for longer periods of time.
 
