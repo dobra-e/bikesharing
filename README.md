@@ -9,4 +9,25 @@ Tableau was used to visualize trip data from CitiBike for the month of August (t
 ## Results
 Explore the [CitiBike Story on Tableau Public](https://public.tableau.com/app/profile/emily4932/viz/CitiBike_16777247951230/TheCitiBikeStory?publish=yes).
 
-### Visualizations used in the story are below with a brief description of the resulting conclusions. 
+##### Visualizations used in the story are below with a brief description of the resulting conclusions. 
+
+####### User Types
+![User Types](/visualizations/UserTypes.png)
+
+####### Peak Usage Times in August
+![Peak Usage Times in August](/visualizations/AugustPeakTimes.png)
+
+####### User Checkout Times
+![User Checkout Times](/visualizations/Checkout_Gender.png)
+
+####### User Checkout Times by Gender
+![User Checkout Times by Gender](/visualizations/Checkout_Users.png)
+
+####### Usage Time and Day
+![Usage Time and Day](/visualizations/TimebyDay.png)
+
+####### Usage Time and Day by Gender
+![Usage Time and Day by Gender](/visualizations/TimebyDaybyGender.png)
+
+####### Usage Time and Day by User Type
+![Usage Time and day by User Type](/visualizations/TimebyDaybyUser.png)
